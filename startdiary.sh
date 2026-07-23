@@ -8,7 +8,7 @@ source venv/bin/activate
 pip install psycopg2-binary
 
 # Запустить дневник
-python3 dery.py
+python3 diary.py
 
 # Когда закончите — деактивировать
 deactivate
