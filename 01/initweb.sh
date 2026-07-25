@@ -14,7 +14,7 @@ sudo apt-get install -y nginx python3-pip python3-venv
 
 echo "=== [2/5] Настройка приложения ==="
 mkdir -p "$APP_DIR"
-cp web_admin.py "$APP_DIR/"
+cp webadmin.py "$APP_DIR/"
 cd "$APP_DIR"
 
 if [ ! -d "venv" ]; then
