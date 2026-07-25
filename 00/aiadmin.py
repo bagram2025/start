@@ -211,4 +211,4 @@ if __name__ == "__main__":
         print("🤖 Думаю...", end="", flush=True)
         context = collect_context()
         answer = ask_ai(context, user_input)
-        print(f"\r🤖 {answer}\n")but i
+        print(f"\r🤖 {answer}\n")
