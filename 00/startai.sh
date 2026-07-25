@@ -30,4 +30,4 @@ echo "  Запуск AI-помощника Бусер..."
 echo "=============================================="
 echo ""
 
-python3 aiadmin.py
+python3 aiadmin2.py
